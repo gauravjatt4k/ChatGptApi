@@ -1,7 +1,7 @@
 import "dotenv/config";
 import OpenAI from "openai";
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
-
+// code is ai
 async function main(userobj) {
   try {
     console.log("\n 😜 ai is running....");

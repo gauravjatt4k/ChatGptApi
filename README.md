@@ -99,7 +99,7 @@ OPENAI_API_KEY=YOUR_API_KEY_HERE
 
 ```json
 
-"dev": "npm run App.js"
+"dev": "node App.js"
 
 ```
 

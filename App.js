@@ -51,5 +51,5 @@ app.post("/apiv1", async (req, res) => {
 });
 
 app.listen(port, () => {
-	console.log(`Example app listening on port ${port}!`);
+	console.log(`ChatGptApi app listening localhost on port ${port}!`);
 });

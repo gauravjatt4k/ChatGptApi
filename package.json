@@ -1,16 +1,16 @@
 {
-  "name": "chatgpt",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "chatgptapi",
+  "version": "1.4",
+  "description": "This is a free open-source chat gpt API and chat gpt small clone using bun and react and express js with api !",
+  "main": "App.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "bun run --watch app.js"
+    "dev": "bun run --watch App.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
